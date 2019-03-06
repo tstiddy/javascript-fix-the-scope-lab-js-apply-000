@@ -12,12 +12,12 @@ function yourAnimal() {
   return animal
 }
 
-//function add2(n) {
-  //const two = 2
+function add2(n) {
+  const two = 2
   //return parseInt(n, 10) + two //takes string and changes to integer 
 
   // Feel free to move things around!
-//}
+}
 
 var funkyFunction = function() {
   return function() {
