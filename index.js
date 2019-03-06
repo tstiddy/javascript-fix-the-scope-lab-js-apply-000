@@ -29,4 +29,4 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 
 var theFunk = funkyFunction() //declared funk is equal to funkyFunction
-theFunk = theFunk() 
+theFunk = theFunk() //
